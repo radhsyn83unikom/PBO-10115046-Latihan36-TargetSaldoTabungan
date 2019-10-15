@@ -1,6 +1,11 @@
 package com.radhsyn83;
 
-import javafx.scene.control.Tab;
+/*
+ *
+ * Fathur Radhy
+ * 10115046
+ * PDO11K
+ */
 
 import java.util.Scanner;
 
